@@ -34,7 +34,7 @@
                 android:padding="5dp"
                 android:text="Pie Name"
                 android:textColor="@color/black"
-                android:textSize="22dp"
+                android:textSize="30dp"
                 android:textStyle="bold" />
 
             <LinearLayout
@@ -81,6 +81,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
         android:layout_marginRight="20dp"
         android:orientation="vertical">
 
@@ -92,7 +93,8 @@
             android:layout_marginBottom="9dp"
             android:gravity="center"
             android:text="@string/descriptionFood"
-            android:textSize="14sp" />
+            android:textSize="16dp" />
+
 
         <EditText
             android:id="@+id/nameBox"
@@ -101,7 +103,7 @@
             android:layout_marginBottom="10dp"
             android:background="@drawable/edittext_background"
             android:ems="10"
-            android:hint="Your Name"
+            android:hint="Additional toppings if any"
             android:inputType="textPersonName"
             android:padding="9dp"
             android:paddingBottom="10dp" />
@@ -113,7 +115,7 @@
             android:layout_marginBottom="10dp"
             android:background="@drawable/edittext_background"
             android:ems="10"
-            android:hint="Your Phone Number"
+            android:hint="Address"
             android:inputType="textPersonName"
             android:padding="9dp" />
 
@@ -157,7 +159,7 @@
             android:layout_marginTop="20dp"
             android:background="@drawable/btn_background"
             android:backgroundTint="#D3A829"
-            android:text="Order Now" />
+            android:text="Add To Cart" />
 
     </LinearLayout>
 
