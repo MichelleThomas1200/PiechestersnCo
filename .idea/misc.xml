@@ -3,11 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/drawable/background_splashscreen.xml" value="0.2703125" />
         <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/drawable/btn_background.xml" value="0.2703125" />
         <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/drawable/edittext_background.xml" value="0.2703125" />
         <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/drawable/sugarpie.xml" value="0.2703125" />
         <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/layout/activity_cart.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/layout/activity_detail.xml" value="0.264" />
+        <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/layout/activity_home_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/layout/activity_login.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/layout/activity_login_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/layout/cart_sample.xml" value="0.264" />
         <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/layout/menu_itemsample.xml" value="0.264" />
