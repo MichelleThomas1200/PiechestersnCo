@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/drawable/btn_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/drawable/edittext_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/drawable/sugarpie.xml" value="0.2703125" />
+        <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/layout/activity_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/layout/activity_detail.xml" value="0.264" />
+        <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/layout/cart_sample.xml" value="0.264" />
+        <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/layout/menu_itemsample.xml" value="0.264" />
+        <entry key="..\:/Users/micht/AndroidStudioProjects/PiechestersnCo/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
