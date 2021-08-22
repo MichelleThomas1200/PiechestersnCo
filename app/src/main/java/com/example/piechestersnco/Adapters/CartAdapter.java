@@ -78,7 +78,7 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.viewHolder>{
                                     Toast.makeText(context, "Item Deleted", Toast.LENGTH_SHORT).show();
                                 }
                                 else{
-                                    Toast.makeText(context, "Error", Toast.LENGTH_SHORT).show();
+                                    Toast.makeText(context, "Item Already Deleted", Toast.LENGTH_SHORT).show();
                                 }
 
                             }
